@@ -1,0 +1,1 @@
+alert("godsmgrweb aaaaaaaaaaaaaaaaaaaaaaaa.js");
